@@ -22,7 +22,7 @@ page = """
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Torrent File Selector</title>
+    <title>File Selector</title>
     <link rel="icon" href="https://graph.org/file/1a6ad157f55bc42b548df.png" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -220,14 +220,14 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @botsnano-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/krn_adhikari">
+        <a href="https://t.me/tusharbyas">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
